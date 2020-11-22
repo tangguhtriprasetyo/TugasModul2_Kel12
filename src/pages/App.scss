@@ -1,0 +1,34 @@
+.main-page {
+  height: 100vh;
+  background-color: #7caee7;
+  display: flex;
+  flex-direction: column;
+
+  .navbar {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #065e81;
+
+    .title {
+      color: #abd1c6;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .link-wrapper {
+      padding-right: 12px;
+      padding-left: 12px;
+      display: flex;
+      flex-direction: row;
+    }
+  }
+
+  .content {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
