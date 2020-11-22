@@ -1,4 +1,6 @@
-# Kelompok 12
+# Tugas Modul 2 Praktikum RSBK oleh Kelompok 12:
+1. Tangguh Tri Prasetyo (21120117130082)
+2. Alvin Elian Abiyyi (21120117130051)
 
- <p>Tangguh Tri Prasetyo - 21120117130082</p>
- <p>Alvin Elian Abbiyi - 21120117130051</p>
+## SCREENSHOT
+![Alt text](/modul2.png?raw=true "Screenshot Hasil Tugas Modul 2")
